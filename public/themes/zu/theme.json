@@ -1,0 +1,8 @@
+{
+  "name" : "zu",
+  "description" : "WIP",
+  "elements" : [ {
+    "tag" : "Symfony",
+    "icon" : "symfony_black_03.png"
+  } ]
+}
