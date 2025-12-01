@@ -36,15 +36,15 @@
       "color": "#ffffff"
     },
     {
-      "tag": "Symfony",
+      "tag": "LogoSymfony",
       "icon": "symfony.svg"
     },
     {
-      "tag": "Sandbox",
+      "tag": "LogoSandbox",
       "icon": "sandbox.svg"
     },
     {
-      "tag": "zu",
+      "tag": "LogoZu",
       "icon": "zu.svg"
     }
   ]
