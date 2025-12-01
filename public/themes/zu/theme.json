@@ -36,16 +36,16 @@
       "color": "#ffffff"
     },
     {
-      "tag": "Symfony - PNG",
-      "icon": "symfony_black_03.png"
-    },
-    {
       "tag": "Symfony",
       "icon": "symfony.svg"
     },
     {
-      "tag": "AWS",
-      "icon": "aws.svg"
+      "tag": "Sandbox",
+      "icon": "sandbox.svg"
+    },
+    {
+      "tag": "zu",
+      "icon": "zu.svg"
     }
   ]
 }
