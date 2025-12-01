@@ -1,35 +1,51 @@
 {
-  "name" : "zu theme",
-  "description" : "Description",
-  "elements" : [ {
-    "tag" : "Boundary:Container",
-    "color" : "#438dd5"
-  }, {
-    "tag" : "Boundary:SoftwareSystem",
-    "color" : "#1168bd"
-  }, {
-    "tag" : "Component",
-    "background" : "#85bbf0",
-    "color" : "#ffffff"
-  }, {
-    "tag" : "Container",
-    "background" : "#438dd5",
-    "color" : "#ffffff"
-  }, {
-    "tag" : "Element",
-    "shape" : "RoundedBox"
-  }, {
-    "tag" : "Person",
-    "background" : "#08427b",
-    "color" : "#ffffff",
-    "shape" : "Person"
-  }, {
-    "tag" : "Software System",
-    "background" : "#1168bd",
-    "color" : "#ffffff"
-  },
+  "name": "zu theme",
+  "description": "Description",
+  "elements": [
     {
-      "tag" : "Symfony",
-      "icon" : "symfony_black_03.png"
-    }]
+      "tag": "Boundary:Container",
+      "color": "#438dd5"
+    },
+    {
+      "tag": "Boundary:SoftwareSystem",
+      "color": "#1168bd"
+    },
+    {
+      "tag": "Component",
+      "background": "#85bbf0",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Container",
+      "background": "#438dd5",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Element",
+      "shape": "RoundedBox"
+    },
+    {
+      "tag": "Person",
+      "background": "#08427b",
+      "color": "#ffffff",
+      "shape": "Person"
+    },
+    {
+      "tag": "Software System",
+      "background": "#1168bd",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Symfony - PNG",
+      "icon": "symfony_black_03.png"
+    },
+    {
+      "tag": "Symfony",
+      "icon": "symfony.svg"
+    },
+    {
+      "tag": "AWS",
+      "icon": "aws.svg"
+    }
+  ]
 }
