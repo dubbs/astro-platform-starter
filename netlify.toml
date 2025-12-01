@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/themes/*" # This applies the headers to all paths
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
